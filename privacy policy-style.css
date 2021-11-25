@@ -10,7 +10,7 @@ body {
   }
 /* homepage hero */
 header {
-    padding: 20px 0;
+    padding: 20px 35px;
     background-color: #39a6b2;
   }
 header h1 {
@@ -64,7 +64,7 @@ background-position: bottom;
 height: auto;
 text-align:center;
 margin-bottom: 40px;
-margin: 20px 0;
+margin: 20px;
 background-color: white;
 color: blue;
 }
@@ -95,6 +95,7 @@ font-style: italic;
     text-align: center;
     margin-bottom: 40px;
   }
+
   
   .secondary-content {
     width: 80%;
