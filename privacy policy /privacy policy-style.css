@@ -59,7 +59,7 @@ section {
     padding: 60px;
 }
 .hero {
-background-image: url("hero-image.jpg");
+background-image: url("../assets/images/hero-image.jpg");
 background-position: bottom;
 height: auto;
 text-align:center;
