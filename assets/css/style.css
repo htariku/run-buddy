@@ -58,13 +58,7 @@ footer h2 {
   section {
       padding: 60px;
   }
-  /* Hero Style Start */
-.hero {
-    background-image: url("../images/hero-image.jpg");
-    height: 600px;
-    background-size:cover;
-    background-position: center;
-  }
+
   /* Hero Style End */
   .hero-form {
     border: 3px solid #024e76;
@@ -78,7 +72,7 @@ footer h2 {
   }
   /* Hero Style Start */
 .hero {
-    background-image: url("../images/hero-image.jpg");
+    background-image: url("../images/hero-bg.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
