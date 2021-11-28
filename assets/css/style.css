@@ -248,7 +248,7 @@ left: -30px;
   .secondary-border {
     border-color: var(--secondary-color);
   }
-  .step:not(:last-child){
+  .step{
   margin: 50px auto;
   padding-bottom: 50px;
   width: 80%;
